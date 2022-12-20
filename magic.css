@@ -28,7 +28,7 @@ section .sec{
 }
 section .sec.sec1{
     background-color: #a3b9e0;
-    clip-path: circle(100px at 0 50%);
+    clip-path: circle(10px at 50% 50%);
 }
 
 section h2{
